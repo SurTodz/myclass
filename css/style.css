@@ -1,0 +1,24 @@
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #90d2f8;
+}
+
+.dropdown-menu{
+    background-color: #c6e9ff;
+}
+
+.nav-link{
+    font-size: 3vh;
+}
+
+.navbar-brand{
+    font-size: 4vh;
+}
+
+#album{
+    background-color: #90d2f8;
+}
+
+section{
+    padding-top: 5rem;
+}
